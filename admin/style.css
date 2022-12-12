@@ -1,0 +1,52 @@
+.scroll{
+	width: 1150px;
+  	overflow: scroll;
+  	height: 300px;
+  	margin-left: 10px;
+}
+
+.table1 {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+    width: 800px;
+}
+ 
+.table1, th, td {
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
+
+<style>
+    @page { size: A4 }
+ 
+    h1 {
+        font-weight: bold;
+        font-size: 20pt;
+        text-align: center;
+    }
+ 
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+ 
+    .table th {
+        padding: 8px 8px;
+        border:1px solid #000000;
+        text-align: center;
+    }
+ 
+    .table td {
+        padding: 2px 2px;
+        border:1px solid #000000;
+    }
+ 
+    .text-center {
+        text-align: center;
+    }
+</style>
+
+
+}
+ 
